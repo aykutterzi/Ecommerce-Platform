@@ -1,5 +1,5 @@
 # Ecommerce-Platform
-Fullstack Ecommerce Platform built with MERN
+This is a plan for Fullstack Ecommerce Platform built with MERN
 
 
 
