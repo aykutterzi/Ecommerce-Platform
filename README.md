@@ -22,3 +22,23 @@ eCommerce platform built with the MERN stack & Redux. This app includes authenti
 - Checkout process (shipping, payment method, etc)
 - PayPal / credit card integration
 - Database seeder (products & users)
+
+## Technology stack
+
+> ### FrontEnd
+>
+> - React
+> - React Hooks
+> - Redux with Hooks
+> - React router
+> - React bootstrap
+>
+> ### BackEnd
+>
+> - Node
+> - Express
+> - JWT
+> - MongoDB
+> - PayPal API
+> - Heroku hosting
+>   <br>
